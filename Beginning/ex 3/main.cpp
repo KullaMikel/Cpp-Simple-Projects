@@ -1,3 +1,5 @@
+// Simple math excercise
+
 #include <iostream>
 
 using namespace std;
