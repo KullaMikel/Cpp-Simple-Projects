@@ -1,3 +1,5 @@
+// Pitagora excercise with sqrt function using
+
 #include <iostream>
 #include<cmath>
 
