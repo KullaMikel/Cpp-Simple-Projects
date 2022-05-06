@@ -1,0 +1,3 @@
+C:/Users/User/Documents/Progamming/New folder/Simple jobs since beggining/ex 7/cmake-build-debug/CMakeFiles/ex_7.dir
+C:/Users/User/Documents/Progamming/New folder/Simple jobs since beggining/ex 7/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Documents/Progamming/New folder/Simple jobs since beggining/ex 7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
