@@ -1,0 +1,18 @@
+ex 1:
+  Calculates the sum, average, multiplication of 3 numbers
+ex 2:
+  Sum of two numbers
+ex 3:
+  Simple math excercise
+ex 4:
+  Finds if a given year is leap or common
+ex 5:
+  Pitagora excercise with sqrt() funciton use
+ex 6:
+  Excercise to find the biggest number of three given numbers
+ex 7:
+  Excercise that find how many odd and even numbers are in a number
+  Example:
+    input:  10
+    output:   Numra cift kemi 5
+              Numra tek kemi 5
