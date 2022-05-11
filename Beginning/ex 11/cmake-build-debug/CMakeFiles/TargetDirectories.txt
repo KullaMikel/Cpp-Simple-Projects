@@ -1,0 +1,3 @@
+C:/Users/User/Documents/Progamming/Simple jobs since beggining/c++/ex 11/Ushtrim seminari/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Documents/Progamming/Simple jobs since beggining/c++/ex 11/Ushtrim seminari/cmake-build-debug/CMakeFiles/untitled.dir
+C:/Users/User/Documents/Progamming/Simple jobs since beggining/c++/ex 11/Ushtrim seminari/cmake-build-debug/CMakeFiles/rebuild_cache.dir
